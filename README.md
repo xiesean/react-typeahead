@@ -1,2 +1,2 @@
-# react-typeahead
-An experiment of react + redux 
+# react-typeahead POC
+An experiment of react + redux + es6
